@@ -93,6 +93,7 @@ We welcome contributions! Feel free to fork the repository and submit pull reque
 - [Node.js](https://nodejs.org/)
 - [MongoDB](https://www.mongodb.com/)
 - [Stripe API](https://stripe.com/docs)
-```
+
+
 
 This `README.md` template provides a basic structure for your Food Delivery app, including features, technology stack, setup instructions, and how to contribute. Let me know if you'd like any adjustments or additions!
